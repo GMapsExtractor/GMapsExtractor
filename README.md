@@ -23,6 +23,6 @@ A no-code Google Maps scraper that pulls business leads from Google Maps in one 
 - 📥 **Export** to CSV · Excel · JSON  
 - 🎁 **Free**: Get your first **1,000 leads** today
 
-[Get Started for Free](https://gmapsextractor.com?utm_source=github&utm_medium=banner&utm_campaign=gosom)
+[Get Started for Free](https://gmapsextractor.com?utm_source=github_gmapsextractor&utm_medium=banner&utm_campaign=profile)
 
 
